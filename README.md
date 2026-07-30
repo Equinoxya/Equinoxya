@@ -18,7 +18,7 @@
 ### 🚀 À propos de moi
 
 - 🎓 En formation à **Metz Numeric School** (région Thionville)
-- 💼 Actuellement en stage chez **La Lisière Enchantée** (site e-commerce WordPress / WooCommerce)
+- 💼 Prochainement en stage chez **EXOCOMS Group**
 - 🤖 Passionnée par l'**intégration de l'IA** dans des applications concrètes
 - 🌱 En ce moment : je construis des skills Claude personnalisées (workflow de dev + sécurité)
 - 📫 Toujours partante pour discuter d'un projet technique un peu costaud
