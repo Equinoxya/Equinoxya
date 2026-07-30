@@ -45,7 +45,7 @@ Bases de données & Outils
 <img height="165" src="[https://github-readme-stats.vercel.app/api?username=Equinoxya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316](https://github-readme-stats-sigma-five.vercel.app/api?username=Equi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316)" />
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Equinoxya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316" />
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Equi&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316](https://github-readme-stats-sigma-five.vercel.app/api?username=Equi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316)" />
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Equi&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316](https://github-readme-stats-sigma-five.vercel.app/api?username=Equinoxya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316)" />
 
 </div>
 
