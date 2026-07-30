@@ -23,12 +23,6 @@
 - 📫 Toujours partante pour discuter d'un projet technique un peu costaud
 
 ---
-### 🏆 Trophées GitHub
- 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Equi&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
----
 
 ### 🛠️ Stack technique
 
