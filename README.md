@@ -83,7 +83,13 @@
 | **Analyse de sentiment** | Classification d'avis Steam avec un LSTM bidirectionnel |
 
 ---
+### Mes passes temps 
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fiyny4dvhpzfyfxskacn67zcrq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fiyny4dvhpzfyfxskacn67zcrq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 <div align="center">
 
 💬 *"Le code, c'est comme un puzzle : chaque bug résolu est une pièce en plus."*
