@@ -65,7 +65,10 @@
 
 </div>
 ---
-![trophy](https://github-profile-trophy.vercel.app/?username=Equi&theme=tokyonight&no-frame=true)
+<div>
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Equi&theme=tokyonight&no-frame=true)
+</div>
+
 ---
 
 ### 🔭 Projets phares
