@@ -6,8 +6,7 @@
 
 ### Développeuse full-stack en formation, spécialisée en intégration IA
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Int%C3%A9gration+IA+%26+Machine+Learning;D%C3%A9veloppement+Full-Stack+(Vue.js+%2F+React+%2F+Flask);Toujours+en+train+d'apprendre+quelque+chose+de+nouveau)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=800&height=60&lines=Int%C3%A9gration+IA+%26+Machine+Learning;D%C3%A9veloppement+Full-Stack+(Vue.js+%2F+React+%2F+Flask);Toujours+en+train+d'apprendre+quelque+chose+de+nouveau)](https://git.io/typing-svg)
 [![Portfolio](https://img.shields.io/badge/Portfolio-opheliebellissens.netlify.app-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://opheliebellissens.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons--nous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
