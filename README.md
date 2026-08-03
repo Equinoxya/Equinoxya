@@ -76,6 +76,6 @@ Bases de données & Outils
   
 ---
 
-💬 *"Le code, c'est comme un puzzle : chaque bug résolu est une pièce en plus."*
+💬 *"Le code fonctionne 🤷‍♀️. Ne me demande pas pourquoi. Il ne fonctionne plus 🤷‍♀️. Ne me demande pas pourquoi non plus."*
 
 </div>
