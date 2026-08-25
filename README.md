@@ -54,7 +54,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Equinoxya&theme=react-dark&color=ec4899&line=ec4899&point=ffffff&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Equinoxya&show_icons=true&theme=rose_pine&hide_border=true&title_color=ec4899&icon_color=ec4899" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Equinoxya&layout=compact&theme=rose_pine&hide_border=true&title_color=ec4899" />
 
 </div>
 
