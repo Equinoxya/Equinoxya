@@ -53,10 +53,7 @@
 ### 📊 Statistiques GitHub
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Equinoxya&show_icons=true&theme=rose_pine&hide_border=true&title_color=ec4899&icon_color=ec4899" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Equinoxya&layout=compact&theme=rose_pine&hide_border=true&title_color=ec4899" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Equinoxya&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true&no-background=true" alt="Trophées GitHub" />
 </div>
 
 ---
