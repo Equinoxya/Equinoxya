@@ -1,40 +1,52 @@
-# Equinoxya
+# 💖 Ophélie (Equinoxya)
 
 <div align="center">
 
-# Salut, moi c'est Ophélie 👋
+# Coucou, moi c'est Ophélie ✨
 
-### Développeuse full-stack en formation, spécialisée en intégration IA
+### 🌸 Développeuse full-stack en formation | Spécialisée en intégration IA
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=900&height=60&lines=Int%C3%A9gration+IA+%26+Machine+Learning;D%C3%A9veloppement+Full-Stack+(Vue.js+%2F+Python+%2F+Flask+%2F+Django);Toujours+en+train+d'apprendre+quelque+chose+de+nouveau)](https://git.io/typing-svg)
-<p align="center"> <a href="https://opheliebellissens.netlify.app"><img src="https://img.shields.io/badge/Portfolio-F97316?style=flat-square&logo=vercel&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ophelie-bellissens-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> </p> </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=EC4899&center=true&vCenter=true&width=900&height=60&lines=Int%C3%A9gration+IA+%26+Machine+Learning;D%C3%A9veloppement+Full-Stack+(Vue.js+%2F+Python+%2F+Flask+%2F+Django);Toujours+en+train+d'apprendre+quelque+chose+de+nouveau)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://opheliebellissens.netlify.app"><img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ophelie-bellissens-dev"><img src="https://img.shields.io/badge/LinkedIn-DB2777?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-8e2c-cd140c7b720b.gif" width="100%">
 
-### 🚀 À propos de moi
+### 🎀 À propos de moi
 
 - 🎓 En formation à **Metz Numeric School**
 - 💼 Prochainement en stage chez **EXOCOMS Group**
 - 🤖 Passionnée par l'**intégration de l'IA** dans des applications concrètes
-- 📫 Toujours partante pour discuter d'un projet technique un peu costaud
+- 💬 Toujours partante pour papoter technique ou échanger sur un projet un peu costaud !
 
 ---
 
-🛠️ Stack technique
+### 🛠️ Stack technique
+
 <div align="center">
 
-Langages & Frameworks
-
+**Langages & Frameworks**
+<br>
 <img src="https://skillicons.dev/icons?i=python,flask,vue,react,ts,js" />
 
-Data & IA
+<br><br>
 
+**Data & IA**
+<br>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pandas,numpy" />
 
-Bases de données & Outils
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,tailwind,git,github,vscode" /> </div>
+**Bases de données & Outils**
+<br>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,tailwind,git,github,vscode" />
+
+</div>
 
 ---
 
@@ -42,39 +54,36 @@ Bases de données & Outils
 
 <div align="center">
 
-<img height="165" src="[https://github-readme-stats.vercel.app/api?username=Equinoxya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316](https://github-readme-stats-sigma-five.vercel.app/api?username=Equinoxya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316)" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Equinoxya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316" />
-
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Equinoxya&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316](https://github-readme-stats-sigma-five.vercel.app/api?username=Equinoxya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316)" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Equinoxya&theme=react-dark&color=ec4899&line=ec4899&point=ffffff&hide_border=true" />
 
 </div>
 
 ---
 
-### 🔭 Projets phares
+### 💖 Projets phares
 
 | Projet | Description |
 |---|---|
-| **Portfolio Vue.js** | Portfolio perso avec effet machine à écrire, mode sombre/clair, animations au scroll — [voir en ligne](https://opheliebellissens.netlify.app) |
-| **Disney Parade Vehicles API** | API REST Flask + SQLAlchemy 2.0 pour gérer les véhicules de parade |
-| **helpmedraft** | Outil d'écriture assisté par IA — Vue.js, Tailwind, DaisyUI |
-| **WishFlix** | Catalogue de jeux vidéo — React, TypeScript, Vite, Tailwind v4 |
-| **Reconnaissance d'images (CNN)** | Classification Pierre-Feuille-Ciseaux via MobileNetV2 (~94% de précision), app Streamlit avec Grad-CAM |
-| **Analyse de sentiment** | Classification d'avis Steam avec un LSTM bidirectionnel |
+| 🌸 **Portfolio Vue.js** | Portfolio perso avec effet machine à écrire, mode sombre/clair, animations au scroll — [Voir en ligne](https://opheliebellissens.netlify.app) |
+| 🏰 **Disney Parade Vehicles API** | API REST Flask + SQLAlchemy 2.0 pour gérer les véhicules de parade |
+| ✍️ **helpmedraft** | Outil d'écriture assisté par IA — Vue.js, Tailwind, DaisyUI |
+| 🎮 **WishFlix** | Catalogue de jeux vidéo — React, TypeScript, Vite, Tailwind v4 |
+| 📸 **Reconnaissance d'images (CNN)** | Classification Pierre-Feuille-Ciseaux via MobileNetV2 (~94% de précision), app Streamlit avec Grad-CAM |
+| 🧠 **Analyse de sentiment** | Classification d'avis Steam avec un LSTM bidirectionnel |
 
 ---
- 
+
 ### 🎧 En train d'écouter
- 
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fiyny4dvhpzfyfxskacn67zcrq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fiyny4dvhpzfyfxskacn67zcrq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fiyny4dvhpzfyfxskacn67zcrq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=EC4899&bar_color_cover=false">
   </a>
 </p>
-<div align="center">
 
-  
 ---
+
+<div align="center">
 
 💬 *"Le code fonctionne 🤷‍♀️. Ne me demande pas pourquoi. Il ne fonctionne plus 🤷‍♀️. Ne me demande pas pourquoi non plus."*
 
