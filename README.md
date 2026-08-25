@@ -85,8 +85,11 @@
 ---
 
 <div align="center">
-  <img src="https://readme-quotes-real.vercel.app/api?theme=emerald" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quote" />
 </div>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Equinoxya&color=10B981&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
