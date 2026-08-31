@@ -1,4 +1,4 @@
-# 🌿 Ophélie (Equinoxya)
+# 🌿 Ophélie (Equipouet)
 
 <div align="center">
 
